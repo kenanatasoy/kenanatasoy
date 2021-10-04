@@ -16,7 +16,7 @@
 </p>
   
 <h2 align='center'>
-<a href="https://github.com/kenanatasoy?tab=repositories"><img src="https://img.shields.io/badge/I'm working on-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/kenanatasoy?tab=repositories"><img src="https://img.shields.io/badge/I'm currently working on-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </h2>
   
 <p align='center'>
