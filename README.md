@@ -15,13 +15,13 @@
 <a href="https://github.com/kenanatasoy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanatasoy&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 </p>
   
-<h2 align='center'>
+<!-- <h2 align='center'>
 <a href="https://github.com/kenanatasoy?tab=repositories"><img src="https://img.shields.io/badge/I'm currently working on-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</h2>
+</h2> -->
   
-<p align='center'>
+<!-- <p align='center'>
 <a href="https://github.com/kenanatasoy/AndroidMobileBootcampFifthWeek" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenanatasoy&repo=AndroidMobileBootcampFifthWeek&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
-</p>
+</p> -->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
